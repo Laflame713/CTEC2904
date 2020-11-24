@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-printf ("hello World"/n);
-
+printf ("Hello World and Fare thee well"\n);
+printf ("Quicker Version!"\n);
 return 0;
 }
